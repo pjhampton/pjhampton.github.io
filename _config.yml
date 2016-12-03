@@ -21,9 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [`@qwtel`{:style="background: rgba(255, 255, 255, 0.15)"}](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Developer & Researcher
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
@@ -41,17 +39,6 @@ load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 author:
   name:              'PJ Hampton'
 
-  # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
-  photo2x:           http://qwtel.com/public/img/flo@2x.jpg
-
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
-
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
@@ -61,7 +48,6 @@ author:
     instagram:         pjhampton 
     github:            pjhampton
     stackoverflow:     3968703/ham-sandwich
-    # hackernews:      _username_
     linkedin:          pjhampton
 
 # Setting a disqus subdomain will enable the comment section
