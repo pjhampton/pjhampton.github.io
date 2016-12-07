@@ -21,10 +21,10 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Developer & Researcher
+  developer 
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/nap.jpg
@@ -49,9 +49,6 @@ author:
     github:            pjhampton
     stackoverflow:     3968703/ham-sandwich
     linkedin:          pjhampton
-
-# Setting a disqus subdomain will enable the comment section
-# disqus:            <username>
 
 kramdown:
   math_engine:       mathjax
