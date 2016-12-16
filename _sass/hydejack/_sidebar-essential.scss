@@ -24,7 +24,11 @@
 
   /* Sidebar links */
   a {
-    color: #fff;
+    color: #ffdab9;
+
+    &:hover {
+      color: white;
+    }
   }
 
   ul {
