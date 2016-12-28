@@ -6,12 +6,13 @@ title: About Me
 Profile
 -----------------------------
   - From Belfast, N. Ireland
+  - Jazz man.
   - Data-Oriented Software Engineer.
-  - PhD Candidate in the Artificial Intelligence & Applications Research Group.
+  - Study in the Artificial Intelligence & Applications Research Group.
 
 Interests
 -----------------------------
-  - Data Munging & Analysis
+  - Data Analysis
   - Deep / Shallow Learning
   - Functional Programming
   - Distributed Applications
