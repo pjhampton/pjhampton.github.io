@@ -5,9 +5,8 @@ title: About Me
 
 Profile
 -----------------------------
-  - From Belfast, N. Ireland
-  - Jazz man.
-  - Data-Oriented Software Engineer.
+  - Jazz man from Belfast, N. Ireland
+  - Data-Oriented Coder.
   - Study in the Artificial Intelligence & Applications Research Group.
 
 Interests
