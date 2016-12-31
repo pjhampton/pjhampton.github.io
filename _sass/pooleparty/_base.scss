@@ -42,6 +42,11 @@ a {
   // }
 }
 
+.page a:hover {
+  background: #333;
+  color: #fff;
+}
+
 img {
   display: block;
   max-width: 100%;
