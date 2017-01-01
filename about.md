@@ -14,4 +14,3 @@ Interests
   - Data Analysis
   - Deep / Shallow Learning
   - Functional Programming
-  - Distributed Applications
