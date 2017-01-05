@@ -11,6 +11,6 @@ Profile
 
 Interests
 -----------------------------
-  - Data Analysis
+  - Data Science
   - Deep / Shallow Learning
   - Functional Programming
