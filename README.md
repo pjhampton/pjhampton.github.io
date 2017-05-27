@@ -1,3 +1,0 @@
-# pjhampton.github.io
-
-
