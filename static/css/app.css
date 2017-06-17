@@ -1,0 +1,10 @@
+#app {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#app #logo {
+  padding: 1.8em 0 0 0;
+  width: 50%;
+}
