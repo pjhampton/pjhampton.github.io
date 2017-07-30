@@ -1,10 +1,65 @@
-#app {
-  width: 960px;
-  margin: 0 auto;
-  text-align: center;
+html,body{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: arial;
+    line-height: 1.5;
 }
 
-#app #logo {
-  padding: 1.8em 0 0 0;
-  width: 50%;
+header img#logo {
+  padding: 1em 0 0 1em;
+  width: 45%;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+/*
+ * Section
+ */
+
+.bg {
+    color: #1e1935;
+}
+
+.width {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.bg-theme {
+    background: #1e1935;
+    color: #fff;
+}
+
+.bg-footer {
+    background: #aaa;
+    color: #fff;   
+}
+
+.list.list-numbers .item:before {
+    content: counter(li,decimal) ".";
+}
+
+.item:before {
+    content: '\25CF';
+    display: inline-block;
+    font-size: 1.25em;
+    font-weight: bold;
+    padding-right: 1.25em;
+    margin-left: -3.75em;
+    text-align: right;
+    width: 2.5em;
+    counter-increment: li;
+}
+
+/**
+ * general
+ */
+
+ul, ol {
+    list-style: none;
 }
