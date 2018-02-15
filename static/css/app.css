@@ -1,6 +1,10 @@
 #app {
   width: 960px;
   margin: 0 auto;
-  text-align: center;
+}
+
+#app img {
+  margin-top: 10px;
+  width: 350px;
 }
 
